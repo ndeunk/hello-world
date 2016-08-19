@@ -11,6 +11,7 @@ namespace HelloWorld
         static void Main(string[] args)
         {
             Console.WriteLine("Just a console app..");
+            Console.WriteLine("Second line added.");
             Console.ReadKey();
         }
     }
